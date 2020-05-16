@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/russo-portfolio/static/css/main.30cc9a30.chunk.css",
+    "main.js": "/russo-portfolio/static/js/main.761ca335.chunk.js",
+    "main.js.map": "/russo-portfolio/static/js/main.761ca335.chunk.js.map",
+    "runtime-main.js": "/russo-portfolio/static/js/runtime-main.1fd127ec.js",
+    "runtime-main.js.map": "/russo-portfolio/static/js/runtime-main.1fd127ec.js.map",
+    "static/js/2.1532bcb7.chunk.js": "/russo-portfolio/static/js/2.1532bcb7.chunk.js",
+    "static/js/2.1532bcb7.chunk.js.map": "/russo-portfolio/static/js/2.1532bcb7.chunk.js.map",
+    "index.html": "/russo-portfolio/index.html",
+    "precache-manifest.5c34bc59cf19ab095f8b62610b9a9060.js": "/russo-portfolio/precache-manifest.5c34bc59cf19ab095f8b62610b9a9060.js",
+    "service-worker.js": "/russo-portfolio/service-worker.js",
+    "static/css/main.30cc9a30.chunk.css.map": "/russo-portfolio/static/css/main.30cc9a30.chunk.css.map",
+    "static/js/2.1532bcb7.chunk.js.LICENSE.txt": "/russo-portfolio/static/js/2.1532bcb7.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/russo-portfolio/static/media/overlay.b0e59414.png",
+    "static/media/pic02.jpg": "/russo-portfolio/static/media/pic02.94d7c6f7.jpg",
+    "static/media/pic03.jpg": "/russo-portfolio/static/media/pic03.4ad678e1.jpg",
+    "static/media/pic04.jpg": "/russo-portfolio/static/media/pic04.0f978ead.jpg",
+    "static/media/pic07.jpg": "/russo-portfolio/static/media/pic07.d585f3ce.jpg",
+    "static/media/pic08.jpg": "/russo-portfolio/static/media/pic08.ccecd27d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fd127ec.js",
+    "static/js/2.1532bcb7.chunk.js",
+    "static/css/main.30cc9a30.chunk.css",
+    "static/js/main.761ca335.chunk.js"
+  ]
+}
